@@ -4,7 +4,7 @@
 ##How to use
 Just put `emoji.min.js` to your server and write a line to the `<head>`:
 
-`<script src="emoji.js" type="text/javascript"></script>`
+`<script src="emoji.min.js" type="text/javascript"></script>`
 
 Don't forget to use UTF-8 without BOM :)
 
